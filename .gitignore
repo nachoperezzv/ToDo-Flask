@@ -1,0 +1,6 @@
+**/include
+**/lib
+**/scripts
+**/__pycache__
+
+*/*.cfg
