@@ -3,8 +3,8 @@
 **/lib
 **/scripts
 **/__pycache__
+pyvenv.cfg
 
-*/*.cfg
 =======
 # Byte-compiled / optimized / DLL files
 __pycache__/
